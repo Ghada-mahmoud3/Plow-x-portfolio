@@ -1,0 +1,26 @@
+.service-icon {
+    display: inline-block;
+    width: 100%;
+     
+    max-width: 300px; 
+}
+
+.service-icon img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+    border-radius:2%;
+}
+.service-box {
+    padding:10px 20px 200px;
+}
+
+body {
+    background-image: url('../images/10.webp'); 
+    background-size: cover;      
+    background-repeat: no-repeat;
+    background-position: center; 
+    
+  }
+  
